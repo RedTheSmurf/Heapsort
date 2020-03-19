@@ -1,0 +1,14 @@
+E:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+E:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+E:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+E:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+E:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+E:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+E:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
+D:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+D:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+D:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+D:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+D:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+D:\Semester 1 Diploma software development\Create Cloud Computing services\C#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
